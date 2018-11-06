@@ -1,16 +1,18 @@
+---
+title: "Geschlecht und Vorurteil"
+date: 2018-10-09T19:47:24+01:00
+draft: false
+---
+
 Hallo Welt, wir müssen reden.
 
-Ich weiß, das bist du von mir nicht gewohnt. Aber es gibt etwas, das ich loswerden muss.
-
-Es begab sich nämlich vor kurzem, dass ich mit zwei Bekannten in einem Auto saß, während im Radio eine Meldung über Donna Strickland lief, die gerade als dritte Frau den Nobelpreis für Physik gewonnen hatte. Die Sprecher berichteten, dass ihr noch vor wenigen Monaten ein eigener Wikipedia-Eintrag verweigert worden war, mit der Begründung, sie sei nicht bedeutend genug und spekulierten darüber, ob diese Entwicklung vielleicht dazu führen könnte, dass die Leistungen von Physikerinnen in Zukunft stärker anerkannt werden.
+Es begab sich vor kurzem, dass ich mit zwei Bekannten in einem Auto saß, während im Radio eine Meldung über Donna Strickland lief, die gerade als dritte Frau den Nobelpreis für Physik gewonnen hatte. Die Sprecher berichteten, dass ihr noch vor wenigen Monaten ein eigener Wikipedia-Eintrag verweigert worden war, mit der Begründung, sie sei nicht bedeutend genug und spekulierten darüber, ob diese Entwicklung vielleicht dazu führen könnte, dass die Leistungen von Physikerinnen in Zukunft stärker anerkannt werden.
 
 “Es gibt aber nunmal kaum Frauen in der Physik,” sagte einer meiner Mitreisenden, ungeachtet dessen, dass Donna Strickland offensichtlich weniger Anerkennung für ihre Arbeit geerntet hatte als ihre männlichen Kollegen. “Da ist es doch klar, dass es auch wenige Nobelpreisträgerinnen gibt.”
 
 “Ja, aber dass es dort so wenige Frauen gibt, liegt an unserer Gesellschaft,” antwortete ich. “Uns wird von Kindesalter an gesagt, dass Physik eher etwas für Männer ist.”
 
-
 Dass es einen gesellschaftlichen Faktor gibt, wollte mein Gesprächspartner nicht komplett abstreiten, aber er war dennoch der Meinung, die Gründe, weshalb es wenige Physikerinnen gibt, seien zu über 80% biologisch. Bei Frauen seien die Denkprozesse nunmal anders.
-
 
 Ich war irritiert. Ist das, was Wissenschaftler antreibt, nicht in erster Linie die Neugierde? Die Fragen, die einen nicht mehr loslassen: Warum ist das so, wie funktioniert es, was kann ich damit machen?
 
@@ -63,7 +65,6 @@ Trotzdem bitte ich dich, mir zuzuhören:
 Du hältst dich mit Sicherheit nicht für sexistisch oder für jemanden, der in irgendeiner Form gegen andere Menschen diskriminiert. Aber du, als heterosexueller weißer Mann, wirst wahrscheinlich nie wirklich wissen, was es bedeutet, in dieser Gesellschaft eine Frau zu sein, geschweige denn queer oder farbig.
 
 Vielleicht hast du ja Recht, wenn du denkst, dass jemand, der die niedrige Frauenquote bei den bisherigen Nobelpreisträgern bedauert oder die Anerkennung eines dritten Geschlechtes befürwortet sich grundlos aufregt; aber woher willst du das wissen, wenn du nicht dasselbe erlebt und gefühlt hast wie dein Gegenüber?
-
 
 Solange irgendein Mensch anhand seines Aussehens, seiner Religion, seiner sexuellen Präferenzen oder seines biologischen oder angenommenen Geschlechtes bewertet wird, und nicht ausschließlich anhand von seinem Umgang mit seinen Mitmenschen - solange irgendjemand auch nur das Gefühl haben muss, dass es so ist - gibt es Diskriminierung.
 

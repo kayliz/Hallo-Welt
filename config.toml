@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+title = "Hello World"
+theme = "hello-world"
+
+DefaultContentLanguage = "de"
+
+[languages]
+  [languages.en]
+    title = "Hello World"
+    contentDir = "content/en"
+    weight = 2
+  [languages.de]
+    title = "Hallo Welt"
+    contentDir = "content/de"
+    weight = 1
