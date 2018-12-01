@@ -6,7 +6,7 @@ draft: false
 
 Mein 27. Lebensjahr fing nicht ganz so an, wie ich mir das vorgestellt hatte - ich meine, wer verbringt seinen Geburtstag schon gerne krank im Bett?
 
-Zum Glück gibt es soziale Netzwerke und Messenger, die meinen Tag interessanter machten, da mir Freunde nicht nur zum Geburtstag gratulierten, sondern mir auch meinen Geburtstagswunsch erfüllten: Eine Liste an Aufgaben, die ich im nächsten Jahr erfüllen soll.
+Zum Glück habe ich Freunde, die meinen Tag interessanter machten, indem sie mir nicht nur zum Geburtstag gratulierten, sondern auch meinen Geburtstagswunsch erfüllten: Eine Liste an Aufgaben, die ich im nächsten Jahr erfüllen soll.
 
 Hier ist die endgültige Liste:
 
@@ -51,5 +51,6 @@ Hier ist die endgültige Liste:
 36. Mich mit Timo entspannen
 37. Ein Sonett über Buffy-Charaktäre schreiben
 38. Straßenmusik machen und das Geld einem guten Zweck spenden
+39. In der Kitchen für $Menschen kochen
 
 META_QUEST: Bilder von den Quests machen und $Menschen persönlich davon berichten.

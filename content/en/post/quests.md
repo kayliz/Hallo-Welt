@@ -51,5 +51,6 @@ The final list is as follows:
 36. Chill with Timo
 37. Write a sonnet about Buffy characters
 38. Go busking and donate the money to a good cause
+39. Cook for $people in the Binary Kitchen
 
 META_QUEST: Take pictures of the quests and tell $people about them personally.
