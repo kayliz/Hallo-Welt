@@ -41,7 +41,7 @@ Hier ist die endgültige Liste:
     1. eine fiktive
     2. eine nicht-fiktive
     3. eine mit interessanten Schimpfwörtern
-29. Mit Lilo eine kurzgeschichte schreiben
+29. Mit Lilo eine Kurzgeschichte schreiben
 30. Besagte Kurzgeschichte vor einem Publikum vortragen
 31. Ein Mini-Larp organisieren
 32. Ein IT-taugliches Lied über Hufflepuff schreiben
