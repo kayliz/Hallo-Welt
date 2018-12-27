@@ -48,9 +48,11 @@ The final list is as follows:
 33. Sing at least one song at a karaoke bar
 34. Don’t stress so much
 35. Paint at least one wall in my flat a vibrant colour other than yellow
-36. Chill with Timo
+36. Relax with Timo
 37. Write a sonnet about Buffy characters
 38. Go busking and donate the money to a good cause
 39. Cook for $people in the Binary Kitchen
+40. Attend a Nintendo Party
+41. Juggle in a group with other people
 
 META_QUEST: Take pictures of the quests and tell $people about them personally.

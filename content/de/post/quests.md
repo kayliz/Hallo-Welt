@@ -52,5 +52,7 @@ Hier ist die endgültige Liste:
 37. Ein Sonett über Buffy-Charaktäre schreiben
 38. Straßenmusik machen und das Geld einem guten Zweck spenden
 39. In der Kitchen für $Menschen kochen
+40. Eine Nintendo-Party besuchen
+41. In einer Gruppe mit anderen Menschen jonglieren
 
 META_QUEST: Bilder von den Quests machen und $Menschen persönlich davon berichten.
