@@ -24,7 +24,7 @@ Hier ist die endgültige Liste:
 12. Ein Tier essen, das ich noch nie gegessen habe
 13. Ein Land außerhalb Europas besuchen
 14. Eine Nacht durchmachen
-15. An einem Lagerfeuer essen
+15. [An einem Lagerfeuer essen](/post/quest-15)
 16. Die Nordlichter sehen
 17. Eine Pflanze aus einem Samen heranziehen und die Früchte ernten
 18. Etwas aus Holz komplett selber bauen
