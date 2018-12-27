@@ -24,7 +24,7 @@ The final list is as follows:
 12. Eat an animal I’ve never eaten before
 13. Visit a country outside of the European continent
 14. Skip one night of sleep
-15. Eat around a campfire
+15. [Eat around a campfire](/en/post/quest-15)
 16. See the Northern Lights
 17. Grow a plant from seed to fruit
 18. Complete a woodworking project from scratch
