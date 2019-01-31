@@ -30,7 +30,7 @@ Hier ist die endgültige Liste:
 18. Etwas aus Holz komplett selber bauen
 19. Einen seltsamen Schneemann bauen
 20. Eine Nacht in einem Baumhaus verbringen
-21. Ein CCC Event besuchen
+21. [Ein CCC Event besuchen](/post/quest-21)
 22. Ein Tattoo stechen lassen
 23. Ein Cosplay Outfit selber basteln
 24. Einen Lego Bausatz mit mindestens 1000 Stücken zusammenbauen

@@ -30,7 +30,7 @@ The final list is as follows:
 18. Complete a woodworking project from scratch
 19. Build a weird snowman
 20. Spend a night in a treehouse
-21. Visit a CCC event
+21. [Visit a CCC event](/en/post/quest-21)
 22. Get a permanent tattoo
 23. Make a cosplay outfit on my own
 24. Finish a lego set with 1000+ pieces
