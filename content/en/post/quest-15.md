@@ -1,5 +1,5 @@
 ---
-title: "Quest #15"
+title: "#15 - Eat around a campfire"
 date: 2018-12-27T15:54:42+01:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Quest #15"
+title: "#15 - An einem Lagerfeuer essen"
 date: 2018-12-27T15:54:42+01:00
 draft: false
 ---
@@ -16,5 +16,4 @@ Vielen Dank an Heldras für die Einladung!
 
 [Zur Quest Übersicht](/post/quests)
 
-[kayliz]: /post/quest-15_kayliz.jpg
 [fire]: /post/quest-15_fire.jpg
