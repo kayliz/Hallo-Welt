@@ -4,9 +4,9 @@ date: 2018-12-27T15:54:42+01:00
 draft: false
 ---
 
-Quest #15 was "Eat around a campfire".
+*Set by Avarrish*
 
-I did that with friends on the 22nd of December.
+I completed quest #15 with friends on the 22nd of December 2018.
 
 ![Fire][fire]
 
