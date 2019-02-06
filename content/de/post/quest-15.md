@@ -4,9 +4,9 @@ date: 2018-12-27T15:54:42+01:00
 draft: false
 ---
 
-Quest #15 lautete "An einem Lagerfeuer essen".
+*Questgeber: Avarrish*
 
-Dies habe ich am 22.12.2018 mit Freunden bei einem Sonnenwendfeuer gemacht.
+Quest #15 habe ich am 22.12.2018 mit Freunden bei einem Sonnenwendfeuer gemacht.
 
 ![Lagerfeuer][fire]
 
