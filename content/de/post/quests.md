@@ -19,7 +19,7 @@ Hier ist die endgültige Liste:
 7. Ein Escape Room besuchen
 8. Mindestens 10 Fremden Blumen schenken
 9. Reiten
-10. Die Mandeln entfernen lassen
+10. [Die Mandeln entfernen lassen](/post/quest-10)
 11. Ein neues Videospiel bezwingen
 12. Ein Tier essen, das ich noch nie gegessen habe
 13. Ein Land außerhalb Europas besuchen
@@ -28,7 +28,7 @@ Hier ist die endgültige Liste:
 16. Die Nordlichter sehen
 17. Eine Pflanze aus einem Samen heranziehen und die Früchte ernten
 18. Etwas aus Holz komplett selber bauen
-19. Einen seltsamen Schneemann bauen
+19. [Einen seltsamen Schneemann bauen](/post/quest-19)
 20. Eine Nacht in einem Baumhaus verbringen
 21. [Ein CCC Event besuchen](/post/quest-21)
 22. Ein Tattoo stechen lassen

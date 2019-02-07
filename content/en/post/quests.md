@@ -19,7 +19,7 @@ The final list is as follows:
 7. Visit an Escape Room
 8. Give flowers to 10+ strangers on the street
 9. Go horse riding
-10. Have tonsils removed
+10. [Have tonsils removed](/en/post/quest-10)
 11. Master a new video game
 12. Eat an animal I’ve never eaten before
 13. Visit a country outside of the European continent
@@ -28,7 +28,7 @@ The final list is as follows:
 16. See the Northern Lights
 17. Grow a plant from seed to fruit
 18. Complete a woodworking project from scratch
-19. Build a weird snowman
+19. [Build a weird snowman](/en/post/quest-19)
 20. Spend a night in a treehouse
 21. [Visit a CCC event](/en/post/quest-21)
 22. Get a permanent tattoo
