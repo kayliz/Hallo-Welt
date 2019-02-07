@@ -28,7 +28,7 @@ Hier ist die endgültige Liste:
 16. Die Nordlichter sehen
 17. Eine Pflanze aus einem Samen heranziehen und die Früchte ernten
 18. Etwas aus Holz komplett selber bauen
-19. Einen seltsamen Schneemann bauen
+19. [Einen seltsamen Schneemann bauen](/post/quest-19)
 20. Eine Nacht in einem Baumhaus verbringen
 21. [Ein CCC Event besuchen](/post/quest-21)
 22. Ein Tattoo stechen lassen

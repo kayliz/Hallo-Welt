@@ -28,7 +28,7 @@ The final list is as follows:
 16. See the Northern Lights
 17. Grow a plant from seed to fruit
 18. Complete a woodworking project from scratch
-19. Build a weird snowman
+19. [Build a weird snowman](/en/post/quest-19)
 20. Spend a night in a treehouse
 21. [Visit a CCC event](/en/post/quest-21)
 22. Get a permanent tattoo
