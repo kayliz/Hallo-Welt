@@ -51,7 +51,7 @@ The final list is as follows:
 36. Relax with Timo
 37. Write a sonnet about Buffy characters
 38. Go busking and donate the money to a good cause
-39. Cook for $people in the Binary Kitchen
+39. [Cook for the Kitchen](/en/post/quest-39)
 40. Attend a Nintendo Party
 41. Juggle in a group with other people
 
