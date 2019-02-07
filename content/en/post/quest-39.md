@@ -6,7 +6,7 @@ draft: false
 
 *Set by Scara*
 
-To complete this quest I organised a Burns Supper at the Binary Kitchen, with a lot of help.
+To complete this quest I organised a Burns Supper on the 26th of January 2019 at the Binary Kitchen, with a lot of help.
 
 Bevor the meal, I recited an excerpt of the "Address to a Haggis" and Cali did the "Selkirk Grace". The meal itself was vegetarian and non-vegetarian haggis with neeps and tatties and a delicious whisky sauce, and after that we had speeches: Bella did the "Immortal Memory", Magneto did the "Toast to the Lassies" and Ishmael did the "Reply to the Laddies".
 
