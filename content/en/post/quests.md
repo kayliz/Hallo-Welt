@@ -19,7 +19,7 @@ The final list is as follows:
 7. Visit an Escape Room
 8. Give flowers to 10+ strangers on the street
 9. Go horse riding
-10. Have tonsils removed
+10. [Have tonsils removed](/en/post/quest-10)
 11. Master a new video game
 12. Eat an animal I’ve never eaten before
 13. Visit a country outside of the European continent

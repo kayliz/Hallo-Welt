@@ -19,7 +19,7 @@ Hier ist die endgültige Liste:
 7. Ein Escape Room besuchen
 8. Mindestens 10 Fremden Blumen schenken
 9. Reiten
-10. Die Mandeln entfernen lassen
+10. [Die Mandeln entfernen lassen](/post/quest-10)
 11. Ein neues Videospiel bezwingen
 12. Ein Tier essen, das ich noch nie gegessen habe
 13. Ein Land außerhalb Europas besuchen
