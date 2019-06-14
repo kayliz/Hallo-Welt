@@ -14,6 +14,6 @@ The food was broccoli soup, goulash soup and stick bread, and there was also hot
 
 Many thanks to Heldras for the invitation!
 
-[Quest Overview](/en/post/quests)
+[Quest Overview](/en/quest)
 
-[fire]: /post/quest-15_fire.jpg
+[fire]: /quest/quest-15_fire.jpg
