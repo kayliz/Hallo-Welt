@@ -14,6 +14,6 @@ Zu Essen gab es Brokkolisuppe, Gulaschsuppe und Stockbrot, zum Trinken Glühmet 
 
 Vielen Dank an Heldras für die Einladung!
 
-[Zur Quest Übersicht](/post/quests)
+[Zur Quest Übersicht](/quest)
 
-[fire]: /post/quest-15_fire.jpg
+[fire]: /quest/quest-15_fire.jpg

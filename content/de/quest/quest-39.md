@@ -18,7 +18,7 @@ Anschließend gab es noch einen Trifle von Cali und Cranachan von Ishmael, und a
 
 Es war ein wunderschöner Abend an dem wir sehr viel Spaß hatten. Und ich möchte mich an dieser Stelle bei allen bedanken, die da waren und die mir geholfen haben, insbesondere Bella, Ishmael und Marove.
 
-[Zur Quest Übersicht](/post/quests)
+[Zur Quest Übersicht](/quest)
 
-[haggis]: /post/quest-39_haggis.jpg
-[whisky]: /post/quest-39_whisky.jpg
+[haggis]: /quest/quest-39_haggis.jpg
+[whisky]: /quest/quest-39_whisky.jpg
