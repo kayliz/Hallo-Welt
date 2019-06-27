@@ -21,7 +21,7 @@ Hier ist die endgültige Liste:
 9. Reiten
 10. [Die Mandeln entfernen lassen](/quest/quest-10)
 11. [Ein neues Videospiel bezwingen](/quest/quest-11)
-12. Ein Tier essen, das ich noch nie gegessen habe
+12. [Ein Tier essen, das ich noch nie gegessen habe](/quest/quest-12)
 13. Ein Land außerhalb Europas besuchen
 14. Eine Nacht durchmachen
 15. [An einem Lagerfeuer essen](/quest/quest-15)

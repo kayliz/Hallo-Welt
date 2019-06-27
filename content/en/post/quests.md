@@ -21,7 +21,7 @@ The final list is as follows:
 9. Go horse riding
 10. [Have tonsils removed](/en/quest/quest-10)
 11. [Master a new video game](/en/quest/quest-11)
-12. Eat an animal I’ve never eaten before
+12. [Eat an animal I’ve never eaten before](/en/quest/quest-12)
 13. Visit a country outside of the European continent
 14. Skip one night of sleep
 15. [Eat around a campfire](/en/quest/quest-15)

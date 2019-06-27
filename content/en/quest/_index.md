@@ -19,7 +19,7 @@ draft: false
 | #9 - Riding                    | Kris              | To Do                   |            |
 | #10 - Tonsils                  | Mum               | [Done](quest-10)        | 28.01.2019 |
 | #11 - Master video game        | Avarrish          | [In Progress](quest-11) |            |
-| #12 - Eat animal               | Avarrish          | Done                    | 16.04.2019 |
+| #12 - Eat animal               | Avarrish          | [Done](quest-12)        | 16.04.2019 |
 | #13 - Visit country            | Avarrish          | To Do                   |            |
 | #14 - Skip sleep               | Avarrish          | Done                    | 09.03.2019 |
 | #15 - Campfire                 | Avarrish          | [Done](quest-15)        | 22.12.2018 |

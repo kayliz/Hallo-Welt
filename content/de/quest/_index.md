@@ -19,7 +19,7 @@ draft: false
 | #9 - Reiten                    | Kris              | To Do                   |            |
 | #10 - Mandeln                  | Mum               | [Done](quest-10)        | 28.01.2019 |
 | #11 - Videospiel bezwingen     | Avarrish          | [In Progress](quest-11) |            |
-| #12 - Tier essen               | Avarrish          | Done                    | 16.04.2019 |
+| #12 - Tier essen               | Avarrish          | [Done](quest-12)        | 16.04.2019 |
 | #13 - Land besuchen            | Avarrish          | To Do                   |            |
 | #14 - Nacht durchmachen        | Avarrish          | Done                    | 09.03.2019 |
 | #15 - Lagerfeuer               | Avarrish          | [Done](quest-15)        | 22.12.2018 |
