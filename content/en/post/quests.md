@@ -19,18 +19,18 @@ The final list is as follows:
 7. Visit an Escape Room
 8. Give flowers to 10+ strangers on the street
 9. Go horse riding
-10. [Have tonsils removed](/en/post/quest-10)
-11. [Master a new video game](/en/post/quest-11)
+10. [Have tonsils removed](/en/quest/quest-10)
+11. [Master a new video game](/en/quest/quest-11)
 12. Eat an animal I’ve never eaten before
 13. Visit a country outside of the European continent
 14. Skip one night of sleep
-15. [Eat around a campfire](/en/post/quest-15)
+15. [Eat around a campfire](/en/quest/quest-15)
 16. See the Northern Lights
 17. Grow a plant from seed to fruit
 18. Complete a woodworking project from scratch
-19. [Build a weird snowman](/en/post/quest-19)
+19. [Build a weird snowman](/en/quest/quest-19)
 20. Spend a night in a treehouse
-21. [Visit a CCC event](/en/post/quest-21)
+21. [Visit a CCC event](/en/quest/quest-21)
 22. Get a permanent tattoo
 23. Make a cosplay outfit on my own
 24. Finish a lego set with 1000+ pieces
@@ -48,10 +48,10 @@ The final list is as follows:
 33. Sing at least one song at a karaoke bar
 34. Don’t stress so much
 35. Paint at least one wall in my flat a vibrant colour other than yellow
-36. Relax with Timo
+36. [Relax with Marove](/en/quest/quest-36)
 37. Write a sonnet about Buffy characters
 38. Go busking and donate the money to a good cause
-39. [Cook for the Kitchen](/en/post/quest-39)
+39. [Cook for the Kitchen](/en/quest/quest-39)
 40. Attend a Nintendo Party
 41. Juggle in a group with other people
 

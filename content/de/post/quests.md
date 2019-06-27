@@ -48,7 +48,7 @@ Hier ist die endgültige Liste:
 33. In einer Karaoke-Bar mindestens ein Lied singen
 34. Nicht so viel stressen, sowohl in der Arbeit als auch privat
 35. Mindestens eine Wand in meiner Wohnung mit einer kräftigen Farbe, die nicht gelb ist, bemalen
-36. Mich mit Marove entspannen
+36. [Mit Marove entspannen](/quest/quest-36)
 37. Ein Sonett über Buffy-Charaktäre schreiben
 38. Straßenmusik machen und das Geld einem guten Zweck spenden
 39. [Für die Kitchen kochen](/quest/quest-39)

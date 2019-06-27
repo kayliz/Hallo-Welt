@@ -45,7 +45,7 @@ draft: false
 | #33 - Karaoke                  | Cali              | Done                    | 22.04.2019 |
 | #34 - Don't stress             | Wolvdev + 1       | In Progress             |            |
 | #35 - Paint wall               | Cali und David S. | To Do                   |            |
-| #36 - Relaxing                 | Marove            | Done                    | 04.02.2019 |
+| #36 - Relaxing                 | Marove            | [Done](quest-36)        | 03.02.2019 |
 | #37 - Sonett                   | Ishmael           | To Do                   |            |
 | #38 - Busking                  | Cali              | To Do                   |            |
 | #39 - Cooking                  | Scara             | [Done](quest-39)        | 26.01.2019 |
