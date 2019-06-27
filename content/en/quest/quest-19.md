@@ -10,6 +10,6 @@ To complete this quest, Bella and I built Janus and Jupiter on the 3rd of Februa
 
 ![Snow gods][snowgods]
 
-[Quest Overview](/en/post/quests)
+[Quest Overview](/en/quest)
 
-[snowgods]: /post/quest-19_snowgods.jpg
+[snowgods]: /quest/quest-19_snowgods.jpg

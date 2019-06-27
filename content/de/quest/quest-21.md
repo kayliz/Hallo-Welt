@@ -60,4 +60,4 @@ Meine Mitfahrgelegenheit, ein Regensburger Student, der mit in der Ferienwohnung
 
 Es war nicht alles super, was beim 35C3 passiert ist, aber meine Eindrücke sind insgesamt sehr positiv. Ich habe zwar selber nicht viel dazu beigetragen, aber ich hatte sehr viel Spaß und habe tolle Erfahrungen gesammelt. Ich war zuvor vor Reizüberflutung gewarnt worden, aber tatsächlich habe ich mich sehr wohl gefühlt: Es war alles, was ich an der Kitchen liebe, nur sehr, sehr viel größer. Ich freue mich schon auf den 36C3, wo ich auch Engeln möchte!
 
-[Zur Quest Übersicht](/post/quests)
+[Zur Quest Übersicht](/quest)

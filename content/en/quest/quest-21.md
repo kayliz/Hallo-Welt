@@ -14,4 +14,4 @@ Not everything that happened at the 35C3 was great, but on the whole I had a rea
 
 I am looking forward to 36C3, where I plan on being an angel.
 
-[Quest Overview](/en/post/quests)
+[Quest Overview](/en/quest)

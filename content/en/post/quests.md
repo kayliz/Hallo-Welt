@@ -11,7 +11,7 @@ So thank God for social media and messengers, which made my day more interesting
 The final list is as follows:
 
 1. Organize a Buffy Marathon with food and guests
-2. Go bungee jumping with Lilo and Mike
+2. Go bungee jumping
 3. Read 5 books that don’t sound interesting to me at all at first glance
 4. Read all the Skulduggery Pleasant books
 5. Read all the Rivers of London books

@@ -10,6 +10,6 @@ Um diesen Quest zu erfüllen haben Bella und ich am 3.2.2019 Janus und Jupiter g
 
 ![Schneegötter][snowgods]
 
-[Zur Quest Übersicht](/post/quests)
+[Zur Quest Übersicht](/quest)
 
-[snowgods]: /post/quest-19_snowgods.jpg
+[snowgods]: /quest/quest-19_snowgods.jpg

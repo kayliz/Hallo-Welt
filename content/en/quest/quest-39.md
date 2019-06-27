@@ -18,7 +18,7 @@ Later there was a trifle made by Cali and cranachan made by Ishmael, and a lot o
 
 It was a wonderful evening and I would like to thank everyone who attended or helped, particularly Bella, Ishmael and Marove.
 
-[Quest Overview](/en/post/quests)
+[Quest Overview](/en/quest)
 
-[haggis]: /post/quest-39_haggis.jpg
-[whisky]: /post/quest-39_whisky.jpg
+[haggis]: /quest/quest-39_haggis.jpg
+[whisky]: /quest/quest-39_whisky.jpg
