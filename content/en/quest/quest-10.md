@@ -8,6 +8,12 @@ draft: false
 
 I completed this quest with Cali on the 28th of January 2019.
 
-We had our operations in the afternoon and spend the next three and a half days in hospital before returning to my flat. Pain killers made the pain tolerable, and frequent visits by Ishmael, Bella, Marove and Mum helped distract us.
+We had our operations in the afternoon and spend the next three and a half days in hospital before returning to my flat.
+
+Pain killers made the pain tolerable, and frequent visits by Ishmael, Bella, Marove and Mum helped distract us.
+
+![Food][food]
 
 [Quest Overview](/en/quest)
+
+[food]: /quest/quest-10_food.jpg

@@ -8,6 +8,12 @@ draft: false
 
 Diesen Quest habe ich gemeinsam mit Cali am 28.1.2019 erfüllt.
 
-Wir wurden am Nachmittag unter Vollnarkose operiert und verbrachten die nächsten dreieinhalb Tage im Krankenhaus, bevor wir in meine Wohnung zurückkehrten. Mit Novalgin waren die Schmerzen gut auszuhalten, und wir hatten viel Besuch, um uns abzulenken, unter anderem von Ishmael, Bella und Marove.
+Wir wurden am Nachmittag unter Vollnarkose operiert und verbrachten die nächsten dreieinhalb Tage im Krankenhaus, bevor wir in meine Wohnung zurückkehrten.
+
+Mit Novalgin waren die Schmerzen gut auszuhalten, und wir hatten viel Besuch, um uns abzulenken, unter anderem von Ishmael, Bella und Marove. 
+
+![Essen][food]
 
 [Zur Quest Übersicht](/quest)
+
+[food]: /quest/quest-10_food.jpg
